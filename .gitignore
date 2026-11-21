@@ -1,0 +1,9 @@
+# Not part of the published site
+shots/
+.DS_Store
+*.log
+__pycache__/
+.venv/
+.env
+.idea/
+.vscode/
